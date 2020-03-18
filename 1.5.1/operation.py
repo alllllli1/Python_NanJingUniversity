@@ -18,7 +18,7 @@
 
 #原始字符串操作符(r/R):用于一些不希望转义字符起作用的地方
 f=open(r'c:\python\test.py','W')
-f=open('C:\\python\\test.py','W')  #两个等价的
+f=open('C:\\python\\test.py','W')  #两个式子等价
 
 #算数运算符、位运算符、比较运算符、逻辑运算符
 #优先级逐渐递减
