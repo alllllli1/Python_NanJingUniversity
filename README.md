@@ -7,6 +7,8 @@ git+Pycharm教程参考：  https://blog.csdn.net/zeroooorez/article/details/947
 复现南京大学的Python3教程的代码，参考视频网站：https://www.bilibili.com/video/av88260116?p=2
 
 1.2.1报错
-    ValueError: numpy.ufunc size changed, may indicate binary incompatibility. Expected 216 from C header, got 192 from PyObject
-    解决方案：pip install --user --upgrade numpy
-    终端安装成功提示：Successfully installed numpy-1.18.1
+ValueError: numpy.ufunc size changed, may indicate binary incompatibility. Expected 216 from C header, got 192 from PyObject
+
+解决方案：pip install --user --upgrade numpy
+
+终端安装成功提示：Successfully installed numpy-1.18.1
