@@ -1,6 +1,10 @@
 # Python_NanJingUniversity
+
 Pycharm2019.3.1 + Anaconda3 + Python3.6 + 各种库
+
 安装教程具体参考： https://blog.csdn.net/TeFuirnever/article/details/90646020?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+
+Pycham配置主题： https://blog.csdn.net/u012750106/article/details/86577792?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
 
 git+Pycharm教程参考：  https://blog.csdn.net/zeroooorez/article/details/94715752
 
