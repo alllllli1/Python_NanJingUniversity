@@ -15,7 +15,7 @@ print(time(20,23,30))  #time(时，分，秒)
 from datetime import datetime
 dt = datetime.now()
 print(dt)
-print(dt.strftime('%a,%b %d %Y %H:%M'))   #%a简化的星期
+print(dt.strftime('%a,%b %d %Y %H:%M'))   #%a简化的星期 %d日期date  %Y年year %H小时hour %M分钟minute
 
 dt1 = datetime(2020,6,6,9,11)  #各地时区有区别
 print(dt1)
