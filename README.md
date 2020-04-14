@@ -11,7 +11,7 @@
 公众号内对话框回复 南大Python 即可获取网盘链接。  
 ****
 ##软件安装教程：  
-  [Anaconda安装与配置]((https://mp.weixin.qq.com/s?__biz=MzUzMTQ5MzQ4OQ==&mid=2247483681&idx=1&sn=86ed66d43ea863b1ea45df6e36210336&chksm=fa40e63fcd376f2951feb1fe637a5949d3dfa7baa2543ff8306bce20fc04938a90b01ee7db6d&token=544752196&lang=zh_CN#rd))  
+  [Anaconda安装与配置](https://mp.weixin.qq.com/s?__biz=MzUzMTQ5MzQ4OQ==&mid=2247483681&idx=1&sn=86ed66d43ea863b1ea45df6e36210336&chksm=fa40e63fcd376f2951feb1fe637a5949d3dfa7baa2543ff8306bce20fc04938a90b01ee7db6d&token=544752196&lang=zh_CN#rd))  
   [Pycharm安装与配置]()  
 ****    
 ##愉快的学习Python之旅
