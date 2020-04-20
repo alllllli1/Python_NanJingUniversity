@@ -5,6 +5,7 @@
 # @File    : functional_programming.py
 # @Software: PyCharm
 
+#参考教程：https://www.cnblogs.com/sddai/p/10105401.html
 #函数式编程;3个基本函数+一个算子
 #基本函数：map(),reduce(),filter()
 #基本算子（operator）：lambda
